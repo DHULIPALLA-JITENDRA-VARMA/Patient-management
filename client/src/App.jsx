@@ -194,7 +194,7 @@ export default function App() {
       setSaving(false);
     }
   }
-
+//  jailer 21
   function signOut() {
     window.localStorage.removeItem("careflow_token");
     setToken("");
