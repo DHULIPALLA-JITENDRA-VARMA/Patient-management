@@ -1,0 +1,9 @@
+# Node dependencies
+node_modules/
+client/dist/
+server/.env
+client/.env
+
+# Editors
+.idea/
+.vscode/
